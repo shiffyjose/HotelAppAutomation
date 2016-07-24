@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+
+
+  <test name="TestCase104">
+    <classes>      
+      <class name="com.adactin.Testcases.TestCase101"/>
+      <class name="com.adactin.Testcases.TestCase102"/>
+      <class name="com.adactin.Testcases.TestCase103"/>
+      <class name="com.adactin.Testcases.TestCase104"/>
+      <class name="com.adactin.Testcases.TestCase110"/>
+      <class name="com.adactin.Testcases.TestCase111"/>
+      <class name="com.adactin.Testcases.TestCase112"/>
+      <class name="com.adactin.Testcases.TestCase113"/>      
+      <class name="com.adactin.Testcases.TestCase114"/>
+      <class name="com.adactin.Testcases.TestCase115"/>
+      <class name="com.adactin.Testcases.TestCase116"/>     
+      <class name="com.adactin.Testcases.TestCase117"/>      
+      <class name="com.adactin.Testcases.TestCase119"/>
+      <class name="com.adactin.Testcases.TestCase120"/>         
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

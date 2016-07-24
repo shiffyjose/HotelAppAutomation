@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="TestCase104(failed)">
+    <classes>
+      <class name="com.adactin.Testcases.TestCase112">
+        <methods>
+          <include name="PriceWithGSTValidation" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.adactin.Testcases.TestCase112 -->
+      <class name="com.adactin.Testcases.TestCase103">
+        <methods>
+          <include name="PastDateEntry" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.adactin.Testcases.TestCase103 -->
+      <class name="com.adactin.Testcases.TestCase102">
+        <methods>
+          <include name="Teardown"/>
+        </methods>
+      </class> <!-- com.adactin.Testcases.TestCase102 -->
+      <class name="com.adactin.Testcases.TestCase110">
+        <methods>
+          <include name="PriceWithGSTValidation" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.adactin.Testcases.TestCase110 -->
+      <class name="com.adactin.Testcases.TestCase115">
+        <methods>
+          <include name="loginandSearchhotels" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.adactin.Testcases.TestCase115 -->
+      <class name="com.adactin.Testcases.TestCase116">
+        <methods>
+          <include name="CompareBookedWithItenary" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.adactin.Testcases.TestCase116 -->
+      <class name="com.adactin.Testcases.TestCase101">
+        <methods>
+          <include name="Teardown"/>
+          <include name="CheckRunMode"/>
+        </methods>
+      </class> <!-- com.adactin.Testcases.TestCase101 -->
+      <class name="com.adactin.Testcases.TestCase113">
+        <methods>
+          <include name="PastDateEntry" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.adactin.Testcases.TestCase113 -->
+      <class name="com.adactin.Testcases.TestCase104">
+        <methods>
+          <include name="ValidationOfData" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.adactin.Testcases.TestCase104 -->
+    </classes>
+  </test> <!-- TestCase104(failed) -->
+</suite> <!-- Failed suite [Suite] -->
